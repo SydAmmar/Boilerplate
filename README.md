@@ -1,4 +1,4 @@
-# Boilerplate
+# Boilerplate for react project 
 
 # React Router (version 3.0.2)
 # React redux 
